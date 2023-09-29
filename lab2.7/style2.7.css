@@ -1,0 +1,46 @@
+body{
+    color: white;
+    font-size: 13px;
+}
+.first{
+    background-color: blueviolet;
+    width: 130px;
+    height: 70px;
+    position: static;
+}
+.two{
+    background-color: darkred;
+    width: 130px;
+    height: 70px;
+    position: relative;
+}
+.three{
+    background-color: peru;
+    width: 130px;
+    height: 70px;
+    position: relative;
+    left: 30px;
+    bottom: 30px;
+}
+.four{
+    width: 500px;
+    height: 300px;
+    position: relative;
+    background-color: indianred;
+}
+.five {
+    position: absolute;
+    background-color: indigo;
+    width: 250px;
+    height: 150px;
+    right: 0;
+    bottom: 75px;
+}
+.six{
+    background-color: forestgreen;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}

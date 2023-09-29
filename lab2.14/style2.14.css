@@ -1,0 +1,38 @@
+.content{
+    display: flex;
+    background-color: aqua;
+    border: solid 1px green;
+}
+.menu{
+    flex: 30% 1 0;
+}
+.menu ul{
+    margin: 0;
+    font-size: 14px;
+    background-color: bisque;
+    box-sizing: border-box;
+    padding: 5px 5px 5px 30px;
+}
+.text{
+    background-color: darkgray;
+    font-size: 13px;
+    flex: auto 1 1;
+    display: grid;
+    gap: 5px;
+}
+@media(max-width: 800px){
+    .content {
+        flex-direction: column;
+    }
+    .menu{
+        display: flex;
+        flex: 50px 0 0;
+        align-items: center;
+    }
+    .menu ul{
+        display: flex;
+        width: 100%;
+        list-style: none;
+        gap: 5px;
+    }
+}

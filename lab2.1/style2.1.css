@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+}
+.left{
+    max-width: 200px;
+    background-color: #C8FC98;
+    padding: 0 5px 0 5px;
+    box-sizing: border-box;
+}
+.left i{
+    color: red;
+}
+aside{
+    float: right;
+    width:calc(100% - 210px);
+}
+.right i{
+    color: red;
+}
+footer{
+    background-color: black;
+}
+.link a{
+    color: #FFFF80;
+    display: block;
+    text-align: center;
+    padding: 5px;
+}
+header{
+    background-color: #EAEAEA;
+    padding-bottom: 30px;
+}
+header b{
+    font-size: 25px;
+}

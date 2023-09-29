@@ -1,0 +1,17 @@
+.green-box{
+    background-color: green;
+    margin: 0 auto;
+    color:white;
+    width: 450px;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.blue-box{
+    background-color: blue;
+    margin: 0 auto;
+    width: 450px;
+    color: white;
+    font-size: 13px;
+    border: solid 15px blue;
+    padding: 15px;
+}

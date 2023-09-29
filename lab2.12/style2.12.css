@@ -1,0 +1,22 @@
+.content{
+    background-color: aqua;
+    border: solid 1px green;
+}
+.menu{
+    width: 29%;
+    float: left;
+    margin: 0 5px 0 0;
+}
+.menu ul{
+    margin: 0;
+    font-size: 14px;
+    background-color: bisque;
+    box-sizing: border-box;
+    padding: 5px 5px 5px 30px;
+}
+.text{
+    background-color: darkgray;
+    max-width: 70%;
+    font-size: 13px;
+    display: inline-block;
+}

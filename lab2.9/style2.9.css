@@ -1,0 +1,10 @@
+.content{
+    background-color: blue;
+    color: white;
+    width:600px;
+    margin: 0 auto;
+}
+.hampter{
+    float: right;
+    margin: 0 0 10px 15px;
+}

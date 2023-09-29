@@ -1,0 +1,13 @@
+*{
+    font-size: 13px;
+}
+.inline{
+    background-color: aquamarine;
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 5px;
+}
+footer{
+    background-color: bisque;
+}

@@ -1,0 +1,14 @@
+.top-box{
+    margin: 0 auto;
+    width: 450px;
+    font-size: 13px;
+    margin-bottom: 15px;
+}
+.bottom-box{
+    margin: 0 auto;
+    width: 450px;
+    font-size: 13px;
+    box-sizing: border-box;
+    border: solid 15px blue;
+    padding: 15px;
+}
